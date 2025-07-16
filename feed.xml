@@ -1,0 +1,51 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://chuckvstrust.github.io/</id>
+  <title>Chuck vs Trust</title>
+  <subtitle>Security awareness, memes, and digital mythbusting from Chuck.</subtitle>
+  <updated>2025-07-15T20:26:15-04:00</updated>
+  <author>
+    <name>Chuck</name>
+    <uri>https://chuckvstrust.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://chuckvstrust.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://chuckvstrust.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Chuck </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Welcome to Chuck vs Trust</title>
+    <link href="https://chuckvstrust.github.io/posts/welcome-to-chuck-vs-trust/" rel="alternate" type="text/html" title="Welcome to Chuck vs Trust" />
+    <published>2025-07-14T12:00:00-04:00</published>
+  
+    <updated>2025-07-14T12:00:00-04:00</updated>
+  
+    <id>https://chuckvstrust.github.io/posts/welcome-to-chuck-vs-trust/</id>
+    <content type="text/html" src="https://chuckvstrust.github.io/posts/welcome-to-chuck-vs-trust/" />
+    <author>
+      <name>Chuck</name>
+    </author>
+
+  
+    
+    <category term="intro" />
+    
+    <category term="security-awareness" />
+    
+    <category term="culture" />
+    
+  
+
+  <summary>Welcome to Chuck vs Trust.  Hey there, I’m Chuck.  You know that feeling? The one where you’re online and something just feels…off? We’re constantly navigating a digital world where it’s easy to get tricked, lose our footing, or simply hand over information we shouldn’t. But honestly, blind trust is the most dangerous thing in our digital lives.  This is where I come in. On this blog and my You...</summary>
+
+  </entry>
+
+</feed>
+
+
