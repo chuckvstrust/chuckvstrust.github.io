@@ -5,8 +5,6 @@ date: 2025-07-14 12:00:00 -0400
 categories: [intro, security-awareness, culture]
 ---
 
-Welcome to Chuck vs Trust.
-
 Hey there, I’m Chuck.
 
 You know that feeling? The one where you’re online and something just feels...off? We’re constantly navigating a digital world where it’s easy to get tricked, lose our footing, or simply hand over information we shouldn’t. But honestly, blind trust is the most dangerous thing in our digital lives.
