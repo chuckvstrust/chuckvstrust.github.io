@@ -17,14 +17,10 @@ And hey, who says security awareness can’t be fun? I’ll occasionally add in 
 
 In the weeks leading up to starting this blog, I wanted to build Chuck vs Trust on a few simple ideas:
 
-•	Kaizen: Constant, practical improvement beats wishful thinking every time.
-
-•	Focus: Cut through the noise and zero in on real digital risks.
-
-•	Skepticism: Don’t just accept digital myths; dig deeper and ask the tough questions.
-
-•	Community: Security’s better together; we share what we learn, because trust is a team sport.
-
+- Kaizen: Constant, practical improvement beats wishful thinking every time.
+- Focus: Cut through the noise and zero in on real digital risks.
+- Skepticism: Don’t just accept digital myths; dig deeper and ask the tough questions.
+- Community: Security’s better together; we share what we learn, because trust is a team sport.
 
 I'll be dropping new posts every Tuesday. For my innagural post, my focus will be within the firewall (I'm talking about us).
 
