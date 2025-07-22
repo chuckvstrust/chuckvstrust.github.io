@@ -30,4 +30,4 @@ I'm glad you’re here.
 
 
 
-Want to know when I post next? Subscribe via RSS. No Spam. No Email. Just Updates.
+Want to know when I post next? [Subscribe to the RSS feed](/feed.xml) — it's private, simple, and works with any reader.
