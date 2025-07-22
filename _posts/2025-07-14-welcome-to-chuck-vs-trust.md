@@ -26,8 +26,6 @@ In the weeks leading up to starting this blog, I wanted to build Chuck vs Trust 
 
 I'll be dropping new posts every Tuesday. For my innagural post, my focus will be within the firewall (I'm talking about us).
 
-I'm glad you’re here.
+I’m glad you’re here.
 
-
-
-Want to know when I post next? [Subscribe via RSS](/feed.xml) — it's private, simple, and works with any reader.
+Want to know when I post next? [Subscribe via RSS](/feed.xml). No Spam. No Email. Just Updates.
