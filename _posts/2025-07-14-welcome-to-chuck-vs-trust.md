@@ -29,5 +29,3 @@ I'll be dropping new posts every Tuesday. For my innagural post, my focus will b
 I’m glad you’re here.
 
 Want to know when I post next? [Subscribe via RSS](/feed.xml). No Spam. No Email. Just Updates.
-
-<p>Want to know when I post next? <a href="/feed.xml">Subscribe via RSS</a>. No Spam. No Email. Just Updates.</p>
