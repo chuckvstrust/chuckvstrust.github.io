@@ -7,7 +7,9 @@ categories: [intro, security-awareness, culture]
 
 Hey there, I’m Chuck.
 
-You know that feeling? The one where you’re online and something just feels...off? We’re constantly navigating a digital world where it’s easy to get tricked, lose our footing, or simply hand over information we shouldn’t. But honestly, blind trust is the most dangerous thing in our digital lives.
+Let's be honest: blind trust is the most dangerous thing in our digital lives. (read that again)
+
+It's the assumption that https://www.google.com/search?q=safe+browsing+site+status is safe, an email is legitimate, or a voice is real. And it's what gets us into trouble.
 
 This is where I come in. On this blog and my YouTube channel, “Chuck vs Trust,” I’m cutting through the noise. I’m not just looking at the tools and methods used to trick us, but why we fall for these tricks. I’m here to break down those digital myths, explore the subtle ways our trust gets messed with, and most importantly, show you how to actually verify what’s real.
 
@@ -24,5 +26,8 @@ In the weeks leading up to starting this blog, I wanted to build Chuck vs Trust 
 
 I'll be dropping new posts every Tuesday. For my innagural post, my focus will be within the firewall (I'm talking about us).
 
-
 I'm glad you’re here.
+
+
+
+Want to know when I post next? Subscribe via RSS. No Spam. No Email. Just Updates.
