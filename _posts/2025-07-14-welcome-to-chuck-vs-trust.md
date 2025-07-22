@@ -30,4 +30,4 @@ I'm glad you’re here.
 
 
 
-Want to know when I post next? [Subscribe via RSS](/atom.xml) — it's private, simple, and works with any reader.
+Want to know when I post next? [Subscribe via RSS](/feed.xml) — it's private, simple, and works with any reader.
