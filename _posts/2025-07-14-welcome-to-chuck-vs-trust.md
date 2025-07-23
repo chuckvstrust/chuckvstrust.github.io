@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Chuck vs Trust"
 date: 2025-07-14 12:00:00 -0400
-categories: [intro, security-awareness, culture]
+categories: [intro]
 ---
 
 Hey there, I’m Chuck.
