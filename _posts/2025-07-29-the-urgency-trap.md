@@ -26,8 +26,8 @@ Even a brief pause interrupts the automatic panic, giving your slower, more deli
 
 Remember:
 
--Urgency is a feeling, not a fact.
--A real problem can wait at least five seconds (or longer).
+- Urgency is a feeling, not a fact.
+- A real problem can wait at least five seconds (or longer).
 
 So, Stop. Breathe. Then decide.
 That might mean deleting the email.
