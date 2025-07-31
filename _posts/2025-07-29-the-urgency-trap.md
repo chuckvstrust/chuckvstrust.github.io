@@ -34,3 +34,7 @@ That might mean deleting the email or texting your boss to double-check.
 Either way, you control the next move.
 
 Next time, we’ll explore a different trick attackers love: how familiarity fools your brain into trusting the wrong things, and how T for Think helps you snap you out of it.
+
+I’m glad you’re here.
+
+Want to know when I post next? [Subscribe via RSS](/feed.xml). No Spam. No Email. Just Updates.
